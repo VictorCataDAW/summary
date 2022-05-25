@@ -1,2 +1,2 @@
 # summary
-actividad que recoge todo el curso de entornos 1º CFGS cataDAW
+actividad que recoge todo lo aprendido durante el curso en la asignatura de entornos 1º CFGS cataDAW
