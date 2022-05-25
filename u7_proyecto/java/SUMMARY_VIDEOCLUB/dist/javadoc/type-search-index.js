@@ -1,1 +1,0 @@
-typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"summary_videoclub","l":"Pelicula"},{"p":"summary_videoclub","l":"Usuario"},{"p":"summary_videoclub","l":"VideoClub"}];updateSearchResults();
